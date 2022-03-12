@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-/play yeah
+/play yeah .. (lol)
 
 
 <!--
