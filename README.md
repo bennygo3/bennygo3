@@ -1,6 +1,12 @@
 ## Hi there 👋  
 
-/play yeah .. (lol)
+My name is Benjamin Gomez and I recently graduated from The Coding Boot Camp at UT Austin as a Full Stack Developer. 
+
+I am currently working on expanding and growing my coding skills.
+
+You can reach me at: gobecodeme@gmail.com
+
+
 
 
 <!--
