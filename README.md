@@ -6,7 +6,7 @@ I am currently working on expanding and growing my coding skills.
 
 Here is me portfolio page with a few samples of the applications I have been working on the past few months: https://bennygo3.github.io/Work/
 
-If you would like to collaborate or have any questions, feel free to reach out to me at: gobecodeme@gmail.com
+If you would like to collaborate or have any questions, feel free to reach out to me at: ben3gome@gmail.com
 
 
 
